@@ -43,6 +43,6 @@ if answer.lower() == 'input device':
     score += 1
 else:
     print('Wrong')
-    
+
 print("You got the " + str(score)+ " correct answers")
 print("You got the " + str((score/5) *100)+ " correct answers")
